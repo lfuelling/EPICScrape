@@ -1,0 +1,19 @@
+{
+  "name": "epicscrape",
+  "version": "1.0.0",
+  "description": "Scraper for DSCVR/EPIC images.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": {
+    "name": "Lukas Fülling",
+    "email": "lukas@k40s.net"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.15.0",
+    "node-fetch": "^2.6.0"
+  }
+}
